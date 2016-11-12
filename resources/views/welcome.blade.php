@@ -309,13 +309,18 @@
                 <div class="col-md-6 col-news ">
                     <div class="col-bottom two">
                         <h4>{{ $article->title }} </h4>
-                        <p>{{ str_limit($article->body, 50) }}  </p>
+                        <p>{{ str_limit($article->body, 150) }}  </p>
 
                         <a href="/blog/{{ $article->id }}" class="smore">READ MORE</a>
                     </div>
                     <div class="col-news-top">
                         <div class="date-in">
-                            <img class="img-responsive" src="images/a2.jpg" alt="">
+                            @if($article->image)
+                                <img class="img-responsive" src="/uploads/{{ $article->image }}" alt="">
+                            @else
+                                <img class="img-responsive" src="images/a2.jpg" alt="">
+                            @endif
+
                             <div class="month-in">
                                 <span><img src="images/icon2.png" alt=" "></span>
                                 <p>{{ $article->title }}</p>
@@ -327,7 +332,11 @@
                 <div class="col-md-6 col-news-right ">
                     <div class="col-news-top">
                         <div class="date-in">
-                            <img class="img-responsive" src="images/a1.jpg" alt="">
+                            @if($article->image)
+                                <img class="img-responsive" src="/uploads/{{ $article->image }}" alt="">
+                            @else
+                                <img class="img-responsive" src="images/a2.jpg" alt="">
+                            @endif
                             <div class="month-in">
                                 <span><img src="images/icon1.png" alt=" "></span>
                                 <p>{{ $article->title }}</p>
@@ -335,7 +344,7 @@
                         </div>
                         <div class="col-bottom two">
                             <h4>{{ $article->title }}</h4>
-                            <p>{{ str_limit($article->body, 50) }}</p>
+                            <p>{{ str_limit($article->body, 150) }}</p>
 
                             <a href="/blog/{{ $article->id }}" class="smore">READ MORE</a>
                         </div>
