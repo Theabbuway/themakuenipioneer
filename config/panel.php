@@ -7,6 +7,14 @@
  */
 return array(
 
+<<<<<<< HEAD
+=======
+    'controllers' => 'App\Http\Controllers\Admin',
+    'crudItems' => array(
+
+    ),
+
+>>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
     'panelControllers' => array(
        'Admin',
        'Permission',  

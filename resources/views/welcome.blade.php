@@ -30,8 +30,13 @@
                 <div class="banner1">
                     <div class="container">
                         <div class="banner-info">
+<<<<<<< HEAD
                             <h3>We create  <span> purpose-built products For </span></h3>
                             <p>duty-driven people</p>
+=======
+                            <h3>We Plan To Give <span> Ideas For </span></h3>
+                            <p>industrial Companies</p>
+>>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
                             <ul>
                                 <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Machinery</a></li>
                                 <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Equipment </a></li>
@@ -309,13 +314,26 @@
                 <div class="col-md-6 col-news ">
                     <div class="col-bottom two">
                         <h4>{{ $article->title }} </h4>
+<<<<<<< HEAD
                         <p>{{ str_limit($article->body, 50) }}  </p>
+=======
+                        <p>{{ str_limit($article->body, 150) }}  </p>
+>>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
 
                         <a href="/blog/{{ $article->id }}" class="smore">READ MORE</a>
                     </div>
                     <div class="col-news-top">
                         <div class="date-in">
+<<<<<<< HEAD
                             <img class="img-responsive" src="images/a2.jpg" alt="">
+=======
+                            @if($article->image)
+                                <img class="img-responsive" src="/uploads/{{ $article->image }}" alt="">
+                            @else
+                                <img class="img-responsive" src="images/a2.jpg" alt="">
+                            @endif
+
+>>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
                             <div class="month-in">
                                 <span><img src="images/icon2.png" alt=" "></span>
                                 <p>{{ $article->title }}</p>
@@ -327,7 +345,15 @@
                 <div class="col-md-6 col-news-right ">
                     <div class="col-news-top">
                         <div class="date-in">
+<<<<<<< HEAD
                             <img class="img-responsive" src="images/a1.jpg" alt="">
+=======
+                            @if($article->image)
+                                <img class="img-responsive" src="/uploads/{{ $article->image }}" alt="">
+                            @else
+                                <img class="img-responsive" src="images/a2.jpg" alt="">
+                            @endif
+>>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
                             <div class="month-in">
                                 <span><img src="images/icon1.png" alt=" "></span>
                                 <p>{{ $article->title }}</p>
@@ -335,7 +361,11 @@
                         </div>
                         <div class="col-bottom two">
                             <h4>{{ $article->title }}</h4>
+<<<<<<< HEAD
                             <p>{{ str_limit($article->body, 50) }}</p>
+=======
+                            <p>{{ str_limit($article->body, 150) }}</p>
+>>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
 
                             <a href="/blog/{{ $article->id }}" class="smore">READ MORE</a>
                         </div>

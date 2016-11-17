@@ -59,7 +59,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li class=" menu__item"><a class="menu__link" href="/contact">contact</a></li>
 
 					@if(Auth::check())
+<<<<<<< HEAD
 						  <li class=" menu__item"><a class="menu__link" href="/admin">Admin</a></li>
+=======
+						  <li class=" menu__item"><a class="menu__link" href="/panel">Admin</a></li>
+>>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
 					@endif
 				  </ul>
 				</div>
