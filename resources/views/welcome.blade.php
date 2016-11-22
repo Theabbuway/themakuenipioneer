@@ -30,24 +30,19 @@
                 <div class="banner1">
                     <div class="container">
                         <div class="banner-info">
-<<<<<<< HEAD
                             <h3>We create  <span> purpose-built products For </span></h3>
                             <p>duty-driven people</p>
-=======
-                            <h3>We Plan To Give <span> Ideas For </span></h3>
-                            <p>industrial Companies</p>
->>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Machinery</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Equipment </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>OX-Carts</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Loose parts </a></li>
                             </ul>
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Factories</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Workers </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>chaff cutters</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Gates</a></li>
                             </ul>
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Equipment</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Factories </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Heavy Equipment</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Steel Roofing </a></li>
                             </ul>
                             <div class="clearfix"></div>
                         </div>
@@ -58,19 +53,19 @@
                 <div class="banner2">
                     <div class="container">
                         <div class="banner-info">
-                            <h3>We Plan To Give <span> Ideas For </span></h3>
-                            <p>industrial Companies</p>
+                            <h3>Building the Best Products <span> To Inspire and Implement </span></h3>
+                            <p>industrial Solutions</p>
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Machinery</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Equipment </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Water pumps</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Engine repair </a></li>
                             </ul>
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Factories</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Workers </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Metal fabrication</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Aluminium welding</a></li>
                             </ul>
                             <ul>
                                 <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Equipment</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Factories </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Steel windows</a></li>
                             </ul>
                             <div class="clearfix"></div>
                         </div>
@@ -88,16 +83,13 @@
     <div class="container">
         <h3>Our services</h3>
         <div class="col-md-7 content-left">
-            <h4>Nam aliquam pretium feugiat duis <span>sem est eu interdum</span></h4>
-            <p class="abt-para">Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac,
-                suscipit nec mauris. Suspendisse commodo tempor sagittis! In justo est,
-                sollicitudin eu scelerisque pretium, placerat eget elit. Praesent faucibus
-                rutrum odio at rhoncus. Pel ermentum pretium. Maecenas ac lacus ut neque
-                rhoncus laoreet sed id tellus. Donec justo tellus.</p>
+            <h4>Our services are aimed <span>to create a better everyday life</span></h4>
+            <p class="abt-para">.Our enterprise employs multitudes of value added processes in one facility including,
+                welding,cutting,forming, and machining- this, thus, limits of our customer's need for purchasing personnel to locate multiple vendors
+                for different services</p>
             <div class="col-md-6 bann-strip-grid">
                 <div class="col-md-8 b-strip-right">
-                    <h5>Excepteur sint</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h5>Machinery fabrication</h5>
                 </div>
                 <div class="col-md-4 b-strip-left">
                     <span class="glyphicon glyphicon-leaf hovicon effect-4 sub-b" aria-hidden="true"> </span>
@@ -106,8 +98,7 @@
             </div>
             <div class="col-md-6 bann-strip-grid">
                 <div class="col-md-8 b-strip-right">
-                    <h5>Excepteur sint</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                    <h5>modification and production of waterpumps</h5>
                 </div>
                 <div class="col-md-4 b-strip-left">
                     <span class="glyphicon glyphicon-fire hovicon effect-4 sub-b" aria-hidden="true"> </span>
@@ -120,25 +111,21 @@
             <div class="con-grids">
                 <div class="con-lt text-center">
                     <span class="glyphicon glyphicon-ok icon" aria-hidden="true"></span>
-                    <h4>Voluptatem </h4>
-                    <p>Nam aliquam pretium feugiat. Duis sem est,  eu interdum</p>
+                    <h4>Alluminium welding</h4>
                 </div>
                 <div class="con-lt text-center">
                     <span class="glyphicon glyphicon-cog icon" aria-hidden="true"></span>
-                    <h4>Accusantium </h4>
-                    <p>Nam aliquam pretium feugiat. Duis sem est,  eu interdum</p>
+                    <h4>Repairing machines and engines </h4>
                 </div>
             </div>
             <div class="con-grids">
                 <div class="con-lt text-center">
                     <span class="glyphicon glyphicon-fire icon" aria-hidden="true"></span>
-                    <h4>Commodote</h4>
-                    <p>Nam aliquam pretium feugiat. Duis sem est,  eu interdum</p>
+                    <h4>Steel works</h4>
                 </div>
                 <div class="con-lt text-center">
                     <span class="glyphicon glyphicon-leaf icon" aria-hidden="true"></span>
-                    <h4>Aliquampret </h4>
-                    <p>Nam aliquam pretium feugiat. Duis sem est,  eu interdum</p>
+                    <h4>OX-Carts </h4>
                 </div>
             </div>
             <div class="clearfix"></div>
@@ -314,26 +301,18 @@
                 <div class="col-md-6 col-news ">
                     <div class="col-bottom two">
                         <h4>{{ $article->title }} </h4>
-<<<<<<< HEAD
-                        <p>{{ str_limit($article->body, 50) }}  </p>
-=======
                         <p>{{ str_limit($article->body, 150) }}  </p>
->>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
+
 
                         <a href="/blog/{{ $article->id }}" class="smore">READ MORE</a>
                     </div>
                     <div class="col-news-top">
                         <div class="date-in">
-<<<<<<< HEAD
-                            <img class="img-responsive" src="images/a2.jpg" alt="">
-=======
                             @if($article->image)
                                 <img class="img-responsive" src="/uploads/{{ $article->image }}" alt="">
                             @else
                                 <img class="img-responsive" src="images/a2.jpg" alt="">
                             @endif
-
->>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
                             <div class="month-in">
                                 <span><img src="images/icon2.png" alt=" "></span>
                                 <p>{{ $article->title }}</p>
@@ -345,15 +324,11 @@
                 <div class="col-md-6 col-news-right ">
                     <div class="col-news-top">
                         <div class="date-in">
-<<<<<<< HEAD
-                            <img class="img-responsive" src="images/a1.jpg" alt="">
-=======
                             @if($article->image)
                                 <img class="img-responsive" src="/uploads/{{ $article->image }}" alt="">
                             @else
                                 <img class="img-responsive" src="images/a2.jpg" alt="">
                             @endif
->>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
                             <div class="month-in">
                                 <span><img src="images/icon1.png" alt=" "></span>
                                 <p>{{ $article->title }}</p>
@@ -361,11 +336,8 @@
                         </div>
                         <div class="col-bottom two">
                             <h4>{{ $article->title }}</h4>
-<<<<<<< HEAD
-                            <p>{{ str_limit($article->body, 50) }}</p>
-=======
+
                             <p>{{ str_limit($article->body, 150) }}</p>
->>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
 
                             <a href="/blog/{{ $article->id }}" class="smore">READ MORE</a>
                         </div>
@@ -383,3 +355,4 @@
         <!-- contact -->
 
 @endsection
+s

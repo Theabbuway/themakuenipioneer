@@ -21,49 +21,15 @@
                         </div>
                         <div class="col-md-6 easy-right">
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>welding</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>cutting</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>forming</a></li>
                             </ul>
                         </div>
                         <div class="clearfix"></div>
-                        <p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac,
-                            suscipit nec mauris. Suspendisse commodo tempor sagittis! In justo est,
-                            sollicitudin eu scelerisque pretium, placerat eget elit. Praesent faucibus
-                            rutrum odio at rhoncus. Pel ermentum pretium. Maecenas ac lacus ut neque
-                            rhoncus laoreet sed id tellus. Donec justo tellus.</p>
-                    </div>
-                    <div>
-                        <h4>Requirements</h4>
-                        <div class="col-md-6 easy-right">
-                            <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 easy-right">
-                            <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                            </ul>
-                        </div>
-                        <div class="clearfix"></div>
-                        <p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac,
-                            suscipit nec mauris. Suspendisse commodo tempor sagittis! In justo est,
-                            sollicitudin eu scelerisque pretium, placerat eget elit. Praesent faucibus
-                            rutrum odio at rhoncus. Pel ermentum pretium. Maecenas ac lacus ut neque
-                            rhoncus laoreet sed id tellus. Donec justo tellus.</p>
+                        <p>Our enterprise employs multitudes of value added processes in one facility including,
+                            welding,cutting,forming, and machining- this, thus, limits of our customer's need for
+                            purchasing personnel to locate multiple vendors for different services.</p>
                     </div>
                     <div>
                         <h4>Design</h4>
@@ -72,63 +38,25 @@
                         </div>
                         <div class="col-md-6 easy-right">
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Drawings</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Measurements</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Frames </a></li>
                             </ul>
                         </div>
                         <div class="clearfix"></div>
-                        <p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac,
-                            suscipit nec mauris. Suspendisse commodo tempor sagittis! In justo est,
-                            sollicitudin eu scelerisque pretium, placerat eget elit. Praesent faucibus
-                            rutrum odio at rhoncus. Pel ermentum pretium. Maecenas ac lacus ut neque
-                            rhoncus laoreet sed id tellus. Donec justo tellus.</p>
+                        <p>In our fabrication jobs, we normally start with drawings, including precise measurements to develope the schematics
+                            of the proposed system then move to the fabrication stage.</p>
                     </div>
                     <div>
-                        <h4>Construct</h4>
-                        <div class="col-md-6 easy-right">
-                            <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 easy-right">
-                            <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                            </ul>
-                        </div>
-                        <div class="clearfix"></div>
-                        <p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac,
-                            suscipit nec mauris. Suspendisse commodo tempor sagittis! In justo est,
-                            sollicitudin eu scelerisque pretium, placerat eget elit. Praesent faucibus
-                            rutrum odio at rhoncus. Pel ermentum pretium. Maecenas ac lacus ut neque
-                            rhoncus laoreet sed id tellus. Donec justo tellus.</p>
-                    </div>
-                    <div>
-                        <h4>Test</h4>
+                        <h4>Processes</h4>
                         <div class="col-md-6 easy-left">
                             <img src="images/g6.jpg" alt=" "/>
                         </div>
                         <div class="col-md-6 easy-right">
                             <ul>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Consectetuer adipiscing elit</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Dolore magna aliquam </a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Cutting</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Bending</a></li>
+                                <li><a href="#"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>Assembling</a></li>
                             </ul>
                         </div>
                         <div class="clearfix"></div>

@@ -9,11 +9,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Indo Tech a Industrial Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>makuenipioneer</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Indo Tech Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+<meta name="keywords" content="makuenipioneer, steel works makueni, welding makueni, Android Compatible ,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
@@ -50,20 +50,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<span class="icon-bar"></span>
 				  </button>
 				</div>
-				<!-- Collect the nav links, forms, and other content for toggling -->
+				<!-- Collect the nav links, forms, and other content for toggling  *href=/about*-->
 				<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
 				  <ul class="nav navbar-nav menu__list">
 					<li class="active menu__item menu__item--current"><a class="menu__link" href="/">Home <span class="sr-only">(current)</span></a></li>
-					<li class=" menu__item"><a class="menu__link" href="/about">About</a></li>
+					<li class=" menu__item"><a class="menu__link" href="#">About</a></li>
 					<li class=" menu__item"><a class="menu__link" href="/gallery">Gallery</a></li>
 					<li class=" menu__item"><a class="menu__link" href="/contact">contact</a></li>
 
 					@if(Auth::check())
-<<<<<<< HEAD
-						  <li class=" menu__item"><a class="menu__link" href="/admin">Admin</a></li>
-=======
 						  <li class=" menu__item"><a class="menu__link" href="/panel">Admin</a></li>
->>>>>>> d6af46d15fad3701c605391030c2fe29fac23c1c
 					@endif
 				  </ul>
 				</div>
@@ -80,12 +76,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="header-bot">
 	<div class="container">
 		<div class="col-md-6 header_left">
-			<h1><a href="/">INDO TECH</a></h1>
+			<h1><a href="/">THE MAKUENI PIONEER</a></h1>
 		</div>
 		<div class="col-md-6 header_right">
 			<ul>
-				<li><i class="glyphicon glyphicon-phone"></i>CALL US TODAY<span>+123 456 7890</span></li>
-				<li><i class="glyphicon glyphicon-envelope"></i>MAIL US TODAY<span><a href="mailto:info@example.com">info@example.com</a></span></li>
+				<li><i class="glyphicon glyphicon-phone"></i>CALL US TODAY<span>+254 706 478119</span></li>
+				<li><i class="glyphicon glyphicon-envelope"></i>MAIL US TODAY<span><a href="mailto:makuenipioneer@gmail.com">makuenipioneer@gmail.com</a></span></li>
 			</ul>
 		</div>
 		<div class="clearfix"></div>
@@ -98,9 +94,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="contact">
 	<div class="container">
 		<div class="col-md-4 contact-left">
-			<h2><a href="/">INDO TECH</a></h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua.</p>
+			<h2><a href="/">MAKUENIPIONEER</a></h2>
+			<p>Creating purpose built products for duty driven people</p>
 			<ul class="fb_icons2">
 				<li><a class="fb" href="#"></a></li>
 				<li><a class="twit" href="#"></a></li>
@@ -113,9 +108,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<h3>Navigation</h3>
 			<ul>
 				<li><a href="/"><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Home</a></li>
-				<li><a href="/about"><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>About</a></li>
-				<li><a href="/gallery"><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Machinery</a></li>
-				<li><a href="/codes"><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Short Codes</a></li>
+				<li><a href="#"><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>About</a></li>
 				<li><a href="/contact"><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>Contact</a></li>
 			</ul>
 		</div>
@@ -131,7 +124,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</form>
 		</div>
 		<div class="clearfix"></div>
-		<p class="footer">&copy; 2016 Indo Tech. All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a></p>
+		<p class="footer">&copy; 2016 Makuenipioneer. All Rights Reserved | Design by <a href="https://github.com/Theabbuway">the_abbu_way</a></p>
 	</div>
 </div>
 <!-- //contact -->
