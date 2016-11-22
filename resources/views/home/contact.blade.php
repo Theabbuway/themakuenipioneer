@@ -51,7 +51,7 @@
                         </div>
                         <div class="contact-grid3">
                             <h4>Address</h4>
-                            <p>12K Street, 45 Building Road <span>New York City.</span></p>
+                            <p>The Makueni Pioneer <br> PO.Box 481 <span>Wote, Makueni.</span></p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                         </div>
                         <div class="contact-grid3">
                             <h4>Call Us</h4>
-                            <p>+1234 758 839<span>+1273 748 730</span></p>
+                            <p>+254 706 478119<span>+254 712 960060</span></p>
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                         </div>
                         <div class="contact-grid3">
                             <h4>Email</h4>
-                            <p><a href="mailto:info@example.com">info@example1.com</a><span><a href="mailto:info@example.com">info@example2.com</a></span></p>
+                            <p><span><a href="mailto:makuenipioneer@gmail.com">makuenipioneer@gmail.com</a></span></p>
                         </div>
                     </div>
                 </div>
@@ -81,11 +81,11 @@
             </div>
         </div>
     </div>
-    <div class="map">
+   <!--- <div class="map">
         <div class="container">
             <h3 class="title">View On Map</h3>
             <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2482.432383990807!2d0.028213999961443994!3d51.52362882484525!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1423469959819" style="border:0"></iframe>
-        </div>
+        </div>--->
     </div>
     <!-- //contact -->
 

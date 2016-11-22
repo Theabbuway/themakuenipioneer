@@ -6,7 +6,11 @@
         <div class="row">
             <div class="">
                 <div class="blog-image">
-                    <img src="/uploads/{{ $article->image }}">
+                    @if ($article->image)
+                        <img src="/uploads/{{ $article->image }}" class="img img-responsive" width="50%" height="50%">
+                    @else
+                        <img src="/images/a2.jpg" class="img img-responsive" width="50%" height="50%">
+                    @endif
                 </div>
             </div>
             <div class="col-md-6" style="padding: 5%">

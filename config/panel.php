@@ -11,7 +11,6 @@ return array(
     'crudItems' => array(
 
     ),
-
     'panelControllers' => array(
        'Admin',
        'Permission',  

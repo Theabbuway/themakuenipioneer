@@ -17,6 +17,7 @@ class CreateImagesTable extends Migration
             $table->string('name');
             $table->string('title')->nullable();
             $table->text('description')->nullable();
+
             $table->timestamps();
         });
     }
