@@ -20,7 +20,7 @@
                             <div class="item item-type-double">
                                 <div class="item-hover">
                                     <div class="item-info">
-                                        <div class="date">INDO TECH</div>
+                                        <div class="date">MAKUENI PIONEER</div>
                                         <div class="line"></div>
                                         <div class="headline">{{ $image->title }}</div>
                                         <div class="line"></div>
